@@ -44,10 +44,10 @@
       </tr>
       <tr>
       <td align="center"><a
-            href="https://github.com/enmanuel-mag/MiHorarioWeb"><code>github.com/mihorarioweb</code></a></td>
-        <td align="center"><a href="https://github.com/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a>
+            href="https://github.com/enmanuel-mag/enmanuel-mag/MiHorarioWeb"><code>github.com/mihorarioweb</code></a></td>
+        <td align="center"><a href="https://github.com/enmanuel-mag/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a>
         </td>
-        <td align="center"><a href="https://github.com/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
+        <td align="center"><a href="https://github.com/enmanuel-mag/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -63,18 +63,18 @@
     <img src='./skills/express.png' height='50px'>  
     <img src='./skills/cpp.png' height='50px'>
     <img src='./skills/csharp.png' height='50px'> -->
-    <img class='m-2' src='enmanuel-mag/skills/css.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/html.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/java.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/javascript.jpg' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/mongo.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/mysql.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/nodejs.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/php.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/python.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/react.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/vue.png' height='50px'>
-    <img class='m-2' src='enmanuel-mag/skills/c.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/css.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/html.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/java.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/javascript.jpg' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/mongo.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/mysql.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/nodejs.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/php.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/python.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/react.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/vue.png' height='50px'>
+    <img class='m-2' src='https://github.com/enmanuel-mag/enmanuel-mag/tree/master/skills/c.png' height='50px'>
   </p>
 </body>
 </html>
