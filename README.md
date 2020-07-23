@@ -46,12 +46,8 @@
         <td align="center"><a href="https://github.co/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
       </tr>
     </tbody>
-<<<<<<< HEAD
   </table>
   </p>
-=======
-  </table></div>
->>>>>>> cb6e676f0719035068517264fb2ac6a20a3e8b99
   <br/>
   <h2 align="center">Skills</h2>
   <p align="center">A summary of my programming skills.</p>
