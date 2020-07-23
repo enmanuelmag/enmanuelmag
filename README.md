@@ -50,7 +50,6 @@
   <h2 align="center">Skills</h2>
   <p align="center">A summary of my programming skills.</p>
   <p align="center">
-    <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
     <!-- 
     <img src='./skills/unity.png' height='50px'>
     <img src='./skills/lua.png' height='50px'>
@@ -59,6 +58,7 @@
     <img src='./skills/csharp.png' height='50px'> -->
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/css.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/html.png' height='50px'>
+    <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/c.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/java.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/javascript.jpg' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/mongo.png' height='50px'>
@@ -67,8 +67,8 @@
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/php.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/python.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/react.png' height='50px'>
+    <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/vue.png' height='50px'>
-    <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/c.png' height='50px'>
   </p>
 </body>
 </html>
