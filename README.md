@@ -10,17 +10,14 @@
 </head>
 
 <body>
-
   <h2 align="center">BIO 👋</h2>
   <p align="center">Computer Engineering student and Member of <a href='https://github.com/TawsEspol'>Taws ESPOL</a></p>
-  
   <p align="center">I'm used to learn new technologies by my own account from frameworks I use. <br/>I try to keep up with the trends and take advantage of their capabilities.</p>
   <P align="center">Discord Contat: Cardor#9938 🌎</p>
   <br/>
-  
   <h2 align="center">Proyects</h2>
   <p align="center">Here are some of the projects I've worked on.</p>
-  
+  <div align="center" class='center-i'>
   <table align="center" class='center-i'>
     <thead>
       <tr>
@@ -49,11 +46,10 @@
         <td align="center"><a href="https://github.co/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
       </tr>
     </tbody>
-  </table>
+  </table></div>
   <br/>
   <h2 align="center">Skills</h2>
   <p align="center">A summary of my programming skills.</p>
-
   <p align="center">
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
     <!-- 
