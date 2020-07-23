@@ -17,8 +17,7 @@
   <br/>
   <h2 align="center">Proyects</h2>
   <p align="center">Here are some of the projects I've worked on.</p>
-  <p align="center" class='center-i'>
-  <table align="center" class='center-i'>
+  <table align="center">
     <thead>
       <tr>
       <th class="center-t" align="center"><a href="https://github.com/2LStudios-MC"><strong>Mi Horario Web</strong></a></th>
@@ -47,7 +46,6 @@
       </tr>
     </tbody>
   </table>
-  </p>
   <br/>
   <h2 align="center">Skills</h2>
   <p align="center">A summary of my programming skills.</p>
