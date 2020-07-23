@@ -70,5 +70,8 @@
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/vue.png' height='50px'>
   </p>
+  <br/>
+  <h2 align="center">Pinned Repositories</h2>
+  <p align="center">Take a look at my most outstanding repositories.</p>
 </body>
 </html>
