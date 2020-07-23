@@ -22,7 +22,7 @@
   <h2 align="center">Proyects</h2>
   <p align="center">Here are some of the projects I've worked on.</p>
   
-  <table align="center">
+  <table align="center" class='center-i'>
     <thead>
       <tr>
       <th class="center-t" align="center"><a href="https://github.com/2LStudios-MC"><strong>Mi Horario Web</strong></a></th>
@@ -34,13 +34,13 @@
       <tr>
       <td align="center"><a target="_blank" rel="noopener noreferrer"
             href="https://avatars2.githubusercontent.com/u/53847752?s=200&amp;v=4"><img align="center"
-              src="./projects/logo512.png" height="100px" style="max-width:100%;"></a></td>
+              src="https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/projects/logo512.png" height="100px" style="max-width:100%;"></a></td>
         <td align="center"><a target="_blank" rel="noopener noreferrer"
             href="https://avatars0.githubusercontent.com/u/47465684?s=200&amp;v=4"><img align="center"
-              src="./projects/logodark.svg" height="100px" style="max-width:100%;"></a></td>
+              src="https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/projects/logodark.svg" height="100px" style="max-width:100%;"></a></td>
         <td align="center"><a target="_blank" rel="noopener noreferrer"
             href="https://avatars2.githubusercontent.com/u/60458264?s=200&amp;v=4"><img align="center"
-              src="./projects/Logo_uShop_texto_w.png" height="100px" style="max-width:100%;"></a></td>
+              src="https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/projects/Logo_uShop_texto_w.png" height="100px" style="max-width:100%;"></a></td>
       </tr>
       <tr>
       <td align="center"><a
