@@ -44,10 +44,10 @@
       </tr>
       <tr>
       <td align="center"><a
-            href="https://github.com/enmanuel-mag/enmanuel-mag/MiHorarioWeb"><code>github.com/mihorarioweb</code></a></td>
-        <td align="center"><a href="https://github.com/enmanuel-mag/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a>
+            href="https://github.com/enmanuel-mag/MiHorarioWeb"><code>github.com/mihorarioweb</code></a></td>
+        <td align="center"><a href="https://github.com/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a>
         </td>
-        <td align="center"><a href="https://github.com/enmanuel-mag/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
+        <td align="center"><a href="https://github.co/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
       </tr>
     </tbody>
   </table>
@@ -56,7 +56,7 @@
   <p align="center">A summary of my programming skills.</p>
 
   <p align="center">
-    <img class='m-2' src='./skills/angular.png' height='50px'>
+    <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
     <!-- 
     <img src='./skills/unity.png' height='50px'>
     <img src='./skills/lua.png' height='50px'>
