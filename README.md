@@ -63,18 +63,18 @@
     <img src='./skills/express.png' height='50px'>  
     <img src='./skills/cpp.png' height='50px'>
     <img src='./skills/csharp.png' height='50px'> -->
-    <img class='m-2' src='./skills/css.png' height='50px'>
-    <img class='m-2' src='./skills/html.png' height='50px'>
-    <img class='m-2' src='./skills/java.png' height='50px'>
-    <img class='m-2' src='./skills/javascript.jpg' height='50px'>
-    <img class='m-2' src='./skills/mongo.png' height='50px'>
-    <img class='m-2' src='./skills/mysql.png' height='50px'>
-    <img class='m-2' src='./skills/nodejs.png' height='50px'>
-    <img class='m-2' src='./skills/php.png' height='50px'>
-    <img class='m-2' src='./skills/python.png' height='50px'>
-    <img class='m-2' src='./skills/react.png' height='50px'>
-    <img class='m-2' src='./skills/vue.png' height='50px'>
-    <img class='m-2' src='./skills/c.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/css.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/html.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/java.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/javascript.jpg' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/mongo.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/mysql.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/nodejs.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/php.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/python.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/react.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/vue.png' height='50px'>
+    <img class='m-2' src='enmanuel-mag/skills/c.png' height='50px'>
   </p>
 </body>
 </html>
