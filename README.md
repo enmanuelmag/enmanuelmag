@@ -42,7 +42,7 @@
             href="https://github.com/enmanuel-mag/MiHorarioWeb"><code>github.com/mihorarioweb</code></a></td>
         <td align="center"><a href="https://github.com/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a>
         </td>
-        <td align="center"><a href="https://github.co/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
+        <td align="center"><a href="https://github.com/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
       </tr>
     </tbody>
   </table>
