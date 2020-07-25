@@ -17,7 +17,7 @@
   <br/>
   <h2 align="center">Proyects</h2>
   <p align="center">Here are some of the projects I've worked on.</p>
-  <table align="center" class="center-t">
+  <table align="center" class="center-i">
     <thead>
       <tr>
       <th class="center-t" align="center"><a href="https://github.com/2LStudios-MC"><strong>Mi Horario Web</strong></a></th>
