@@ -20,9 +20,9 @@
   <table align="center" class="center-i">
     <thead>
       <tr>
-      <th class="center-t" align="center"><a href="https://github.com/2LStudios-MC"><strong>Mi Horario Web</strong></a></th>
-        <th class="center-t" align="center"><a href="https://github.com/2lstudios"><strong>EmprendeGye</strong></a></th>
-        <th class="center-t" align="center"><a href="https://github.com/rubiuscorp"><strong>UShop</strong></a></th>
+      <th class="center-t" align="center"><a href="https://mihorarioweb.herokuapp.com"><strong>Mi Horario Web</strong></a></th>
+        <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>EmprendeGye</strong></a></th>
+        <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>UShop</strong></a></th>
       </tr>
     </thead>
     <tbody>
