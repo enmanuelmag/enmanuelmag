@@ -20,14 +20,15 @@
   <table align="center" class="center-i">
     <thead>
       <tr>
-      <th class="center-t" align="center"><a href="https://mihorarioweb.herokuapp.com"><strong>Mi Horario Web</strong></a></th>
+        <th class="center-t" align="center"><a href="https://mihorarioweb.azurewebsites.net"><strong>Mi Horario Web</strong></a></th>
         <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>EmprendeGye</strong></a></th>
         <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>UShop</strong></a></th>
+        <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>uStats</strong></a></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-      <td align="center"><a target="_blank" rel="noopener noreferrer"
+        <td align="center"><a target="_blank" rel="noopener noreferrer"
             href="https://avatars2.githubusercontent.com/u/53847752?s=200&amp;v=4"><img align="center"
               src="https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/projects/logo512.png" height="100px" style="max-width:100%;"></a></td>
         <td align="center"><a target="_blank" rel="noopener noreferrer"
@@ -36,13 +37,16 @@
         <td align="center"><a target="_blank" rel="noopener noreferrer"
             href="https://avatars2.githubusercontent.com/u/60458264?s=200&amp;v=4"><img align="center"
               src="https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/projects/Logo_uShop_texto_w.png" height="100px" style="max-width:100%;"></a></td>
+        <td align="center"><a target="_blank" rel="noopener noreferrer"
+            href="https://avatars2.githubusercontent.com/u/60458264?s=200&amp;v=4"><img align="center"
+              src="https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/projects/uStats.png" height="100px" style="max-width:100%;"></a></td>
       </tr>
       <tr>
-      <td align="center"><a
+        <td align="center"><a
             href="https://github.com/enmanuel-mag/MiHorarioWeb"><code>github.com/mihorarioweb</code></a></td>
-        <td align="center"><a href="https://github.com/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a>
-        </td>
+        <td align="center"><a href="https://github.com/enmanuel-mag/emprendeGye"><code>github.com/emprendeGye</code></a></td>
         <td align="center"><a href="https://github.com/enmanuel-mag/uShop"><code>github.com/uShop</code></a></td>
+        <td align="center"><a href="https://github.com/enmanuel-mag"><code>github.com/uStats</code></a></td>
       </tr>
     </tbody>
   </table>
