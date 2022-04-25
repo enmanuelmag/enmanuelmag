@@ -20,7 +20,7 @@
   <table align="center" class="center-i">
     <thead>
       <tr>
-        <th class="center-t" align="center"><a href="https://mihorarioweb.azurewebsites.net"><strong>Mi Horario Web</strong></a></th>
+        <th class="center-t" align="center"><a href="https://mhw.cardor.dev"><strong>Mi Horario Web</strong></a></th>
         <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>EmprendeGye</strong></a></th>
         <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>UShop</strong></a></th>
         <th class="center-t" align="center"><a href="https://github.com/enmanuel-mag"><strong>uStats</strong></a></th>
