@@ -81,8 +81,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=enmanuelmag&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuelmag&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=enmanuelmag&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enmanuelmag&theme=onestar&no-frame=true&column=6&margin-w=8" />
 </p>
 
 ---
